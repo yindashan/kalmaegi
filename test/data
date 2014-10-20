@@ -1,0 +1,1 @@
+{"host_id": "GD9790186806", "app_list": [{"status": [{"name": "SYS_MEM", "value": "40.2"}, {"name": "CPU_LOAD1", "value": "2.3"}, {"name": "CPU_LOAD5", "value": "2.1"}, {"name": "CPU_LOAD15", "value": "3.0"}, {"name": "SYS_CPU", "value": "87.5"}], "appname": "HOST_STATUS"}]}
